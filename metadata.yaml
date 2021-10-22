@@ -1,0 +1,30 @@
+_repo: Joan-Haste_66528
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, F.S.
+    gutenberg_agent_id: '53853'
+    url: http://www.gutenberg.org/2009/agents/53853
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2021-10-13'
+identifiers:
+  gutenberg: '66528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Joan Haste
+url: http://www.gutenberg.org/ebooks/66528
