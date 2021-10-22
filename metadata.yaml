@@ -5,6 +5,9 @@ contributor:
     agent_name: Wilson, F.S.
     gutenberg_agent_id: '53853'
     url: http://www.gutenberg.org/2009/agents/53853
+covers:
+- cover_type: archival
+  image_path: 66528-h/images/cover.jpg
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66528#Joan-Haste
 gutenberg_issued: '2021-10-13'
 identifiers:
   gutenberg: '66528'
